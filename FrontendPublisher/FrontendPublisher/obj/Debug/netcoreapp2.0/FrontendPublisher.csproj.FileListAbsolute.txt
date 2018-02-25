@@ -1,0 +1,11 @@
+/Users/macbook/Projects/FrontendPublisher/FrontendPublisher/bin/Debug/netcoreapp2.0/FrontendPublisher.deps.json
+/Users/macbook/Projects/FrontendPublisher/FrontendPublisher/bin/Debug/netcoreapp2.0/FrontendPublisher.runtimeconfig.json
+/Users/macbook/Projects/FrontendPublisher/FrontendPublisher/bin/Debug/netcoreapp2.0/FrontendPublisher.runtimeconfig.dev.json
+/Users/macbook/Projects/FrontendPublisher/FrontendPublisher/bin/Debug/netcoreapp2.0/FrontendPublisher.dll
+/Users/macbook/Projects/FrontendPublisher/FrontendPublisher/bin/Debug/netcoreapp2.0/FrontendPublisher.pdb
+/Users/macbook/Projects/FrontendPublisher/FrontendPublisher/obj/Debug/netcoreapp2.0/FrontendPublisher.csprojResolveAssemblyReference.cache
+/Users/macbook/Projects/FrontendPublisher/FrontendPublisher/obj/Debug/netcoreapp2.0/FrontendPublisher.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/FrontendPublisher/FrontendPublisher/obj/Debug/netcoreapp2.0/FrontendPublisher.AssemblyInfoInputs.cache
+/Users/macbook/Projects/FrontendPublisher/FrontendPublisher/obj/Debug/netcoreapp2.0/FrontendPublisher.AssemblyInfo.cs
+/Users/macbook/Projects/FrontendPublisher/FrontendPublisher/obj/Debug/netcoreapp2.0/FrontendPublisher.dll
+/Users/macbook/Projects/FrontendPublisher/FrontendPublisher/obj/Debug/netcoreapp2.0/FrontendPublisher.pdb
